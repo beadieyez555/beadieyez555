@@ -79,4 +79,5 @@ a {
 }
 .imgprod {
   transition: transform .2s;
+  padding: 10px;
 }
