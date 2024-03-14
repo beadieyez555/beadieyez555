@@ -83,6 +83,6 @@ p {
 }
 .imgprod {
   transition: transform .2s;
-  padding: 10px;
+  padding: 50px;
   width: 100px;
 }
