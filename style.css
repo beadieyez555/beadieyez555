@@ -91,3 +91,10 @@ p {
   padding: 50px;
   text-align: center;
 }
+.allprod:hover{
+  transform:scale(2.5);
+}
+.allprod{
+  transition: transform .2s;
+  width: 100px;
+}
