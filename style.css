@@ -69,7 +69,7 @@ p {
 .scroll {
   height: 750px;
   overflow: scroll;
-  scrollbar-color: black #8ad6f2;
+  scrollbar-color: #436875 #8ad6f2;
   scrollbar-width:
 }
 .sharkp {
