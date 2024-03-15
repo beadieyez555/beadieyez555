@@ -26,7 +26,7 @@ body {
   text-align: center;
 }
 .nav {
-  height: 1500px;
+  height: 750px;
   width: 100px;
   grid-area: nav;
   font-size: 20px;
@@ -37,7 +37,7 @@ body {
   text-align: center;
 }
 .main {
-  height: 1500px;
+  height: 750px;
   grid-area: main;
   border: solid 1px;
   background: white;
@@ -67,8 +67,7 @@ p {
   font-size: 17px;
 }
 .scroll {
-  height: 200px;
-  width: 750px;
+  height: 750px;
   overflow: scroll;
 }
 .sharkp {
