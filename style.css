@@ -8,6 +8,7 @@ body {
   padding: 0;
 }
 .container1 {
+  height: 1500px;
   display: grid;
   grid-template-columns: auto 1fr;
   grid-gap: 3px;
