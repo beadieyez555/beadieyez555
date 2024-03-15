@@ -83,7 +83,9 @@ p {
   transition: transform .2s;
   padding: 50px;
   width: 300px;
+  text-align: center;
 }
 .textprod{
   padding: 50px;
+  text-align: center;
 }
