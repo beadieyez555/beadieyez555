@@ -65,7 +65,8 @@ a {
   border: solid 1px;
   border-color: white;
   border-radius: 50px;
-  width: 100px;
+  width: 150px;
+  height: 75px;
 }
 p {
   color: black;
