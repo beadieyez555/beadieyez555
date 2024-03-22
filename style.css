@@ -62,7 +62,9 @@ a {
   color: black;
   font-size: 27px;
   background-color: #8ad6f2;
-  border-radius: 100px:
+  border: solid 1px;
+  border-color: white;
+  border-radius: 50px;
   width: 75px;
 }
 p {
