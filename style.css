@@ -61,6 +61,10 @@ h3 {
 a {
   color: black;
   font-size: 27px;
+  border: solid 2px;
+  background-color: #8ad6f2;
+  border-radius: 100px:
+  width: 75px;
 }
 p {
   color: black;
