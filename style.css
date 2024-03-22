@@ -27,7 +27,7 @@ body {
 }
 .nav {
   height: 750px;
-  width: 100px;
+  width: 200px;
   grid-area: nav;
   font-size: 30px;
   border: solid 1px;
@@ -97,4 +97,10 @@ p {
 .allprod{
   transition: transform .2s;
   width: 100px;
+}
+.button{
+  border: solid 2px;
+  background-color: #8ad6f2;
+  border-radius: 100px:
+  width: 75px;
 }
